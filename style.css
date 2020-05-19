@@ -80,7 +80,7 @@
     border-radius: 100%;
   }
   
-  /* #seconds {
+  #seconds {
     position: absolute;
     height: 160px;
     width: 2px;
@@ -121,4 +121,4 @@
     background: #000;
     -webkit-transform-origin: bottom;
     transform-origin: bottom;
-  } */
+  } 
